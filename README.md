@@ -1,4 +1,3 @@
-# proportion_trick_script
 ## Info
 This script will automatically align the bones so you don't have to spend too much time doing it manually.
 
@@ -25,5 +24,5 @@ Visit ZeqMacaw's website if you want to read more about proportion trick or chec
 2.90: https://www.youtube.com/watch?v=n9lmxpjSv0I
 
 ## Credits
-[CaptainBigButt](http://steamcommunity.com/profiles/76561197977063670) - discovering proportion trick  
+[CaptainBigButt](https://steamcommunity.com/profiles/76561197977063670) - discovering proportion trick  
 [Β L Λ Ζ Ξ](https://steamcommunity.com/profiles/76561198070780808) - making the scripts & .blend files
