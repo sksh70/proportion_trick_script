@@ -1,3 +1,11 @@
+## Update (16 March 2023)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/22228680/225458427-7f4e3601-2fca-4fe8-9301-b0bd80e26b6e.png">
+</p>
+
+
+For [Blender 2.79](https://download.blender.org/release/Blender2.79/) you can install [operator_proportion_trick.py](https://github.com/sksh70/proportion_trick_script/blob/main/operator_proportion_trick.py). The function is the same as existing scripts, but now you have buttons on the Tool Shelf. Can only be run on [proportion_trick_2.7_new.blend](https://github.com/sksh70/proportion_trick_script/blob/main/Proportion_Trick/proportion_trick_2.7_new.blend).
+
 ## Info
 This script will automatically align the bones so you don't have to spend too much time doing it manually.
 
@@ -17,7 +25,7 @@ Download Blender 2.79 or 2.9 from: https://download.blender.org/release/</br>
    - code similar to 2.9 so the steps are slighly different
    - bones no longer track child bones without constraint
 
-- Visit ZeqMacaw's website if you want to read more about proportion trick or check the other guides: https://sites.google.com/site/zeqmacaw/tutorials/proportion-trick
+- Visit ZeqMacaw's website if you want to read more about proportion trick or check the other guides: https://web.archive.org/web/20210731220444/https://sites.google.com/site/zeqmacaw/tutorials/proportion-trick
   
 ## Videos
 2.79: https://www.youtube.com/watch?v=MSWirIyobb4  
